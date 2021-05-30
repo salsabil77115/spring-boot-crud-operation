@@ -1,0 +1,9 @@
+post
+{
+"content": "Dear zyad ",
+    "language":"arabic",
+    "method":"sms",
+    "type":"confirmation",
+    "id": "81"
+
+}
